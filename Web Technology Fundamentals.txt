@@ -1,0 +1,75 @@
+MEAN Stack
+    >> M: MongoDB (Database)
+    >> E: ExpressJs (Back end)
+    >> A: Angular (Front end)
+    >> N: NodeJs (Back end)
+
+3 Pillars
+    >> HTML
+    >> CSS
+    >> JS
+
+    Other Stacks
+    >> MEAN, MERN, Java Full Stack, Python Full Stack
+
+Web Dev
+    >> Building / Developers Team
+    >> Testing Team (Manual Testees / Automated Testers, e.g. Selenium)
+    >> Hosting Team ( DevOps Team)
+    >> Maintenance Team / Support Team
+
+SDLC (Software Development Life Cycle)
+    >> Waterfall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V-Shaped Model
+    >> RAD (Rapid Application Develepment) Model
+
+URL (Unifrom Resource Locator)
+    https://www.instagram.com/
+    https://education.AliAcademy.edu/FullStack/
+
+    http: Protocol
+    AliAcademy: Server / Domain Name
+    education: Sub-Domain
+    .edu: TLD (Top level Domain)
+    FullStack: Path/Location
+
+Protocol:
+    >> Set of rules/instructions
+        http : Hyper Text Transfer Protocol
+        https: Hyper Text Transfer Protocol Secure
+        tcp: Transmission Control Protocol
+        udp: User Datagram Protocol
+        smtp: Simple Mail Transfer Protocol
+        ftp: File Transfer Protocol
+        ip: Internet Protocol (ipv4 & ipv6)
+
+        >> Client / Web Page -----(uName & uPwd)----> Instagram Server
+        >> SSL (Secure Socket Layer) Certification
+
+Server/Domain Name:
+    >> Unique Identification Purporse
+        >> Eg. Google, Oracle, Amazon
+
+Sub-Domain Name:
+    >> gMeet
+    >> gDrive
+    >> gMaps
+    >> Gmail
+    >> gPhotos
+    >> gFiles
+    >> gChrome 
+
+TLD (Top Level Domain):
+    Amazon.in
+    Amazon.com
+    Amazon.edu
+    Amazon.org
+    Amazon.uk  
+
+Editors:
+    >> Offline (Notepad, Notepad ++, Sublime, Open Brackets, VS Code)
+    >> Online (CodeSpace, CodeSandbox)
