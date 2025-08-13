@@ -27,3 +27,18 @@ Mandatory Commands
 >> git remote add origin https://github.com/Al1Rizv1/GitDemo.git
 
 git pull origin main
+
+git status
+git add .
+git status
+git commit -m "Commit Message"
+
+create new branch by:
+    git checkout -b "New branch name"
+
+Switch to branch:
+    git checkout "Branch Name"
+
+Clone Application:
+
+    git clone "Repo URL"
