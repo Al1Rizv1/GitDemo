@@ -1,0 +1,44 @@
+Git is required for Version Control
+    v1
+    v2
+    v3
+    new vp4
+
+>> It is distributed (on Cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+Applications that support Git
+GitHub
+Bitbucket
+GitLabs
+GitPod
+
+>> for first time need to configure GitHub in our system
+git config --global user.name "Al1Rizv1"
+git config --global user.email "ali.rzv12000@gmail.com"
+
+git config --global color.ui.auto
+
+Mandatory Commands
+
+>> git init
+>> git remote add origin https://github.com/Al1Rizv1/GitDemo.git
+
+git pull origin main
+
+git status
+git add .
+git status
+git commit -m "Commit Message"
+
+create new branch by:
+    git checkout -b "New branch name"
+
+Switch to branch:
+    git checkout "Branch Name"
+
+Clone Application:
+
+    git clone "Repo URL"
